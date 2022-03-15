@@ -1,0 +1,30 @@
+
+.id{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+.nome{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+.foto{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+.descricao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+.salario{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;    
+}
+
+button{
+    margin-top: 10px;
+}
+
